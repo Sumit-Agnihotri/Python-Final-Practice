@@ -16,3 +16,56 @@ z=True
 print(type(x))
 print(type(y))
 print(type(z))
+
+# Text Type
+text_example = "Hello, World!"
+print(type(text_example), text_example)
+
+# Numeric Types
+int_example = 10
+print(type(int_example), int_example)
+
+float_example = 10.5
+print(type(float_example), float_example)
+
+complex_example = 1 + 2j
+print(type(complex_example), complex_example)
+
+# Sequence Types
+list_example = [1, 2, 3]
+print(type(list_example), list_example)
+
+tuple_example = (1, 2, 3)
+print(type(tuple_example), tuple_example)
+
+range_example = range(5)
+print(type(range_example), list(range_example))
+
+# Mapping Type
+dict_example = {"name": "Alice", "age": 25}
+print(type(dict_example), dict_example)
+
+# Set Types
+set_example = {1, 2, 3}
+print(type(set_example), set_example)
+
+frozenset_example = frozenset({1, 2, 3})
+print(type(frozenset_example), frozenset_example)
+
+# Boolean Type
+bool_example = False
+print(type(bool_example), bool_example)
+
+# Binary Types
+bytes_example = b"Hello"
+print(type(bytes_example), bytes_example)
+
+bytearray_example = bytearray(5)
+print(type(bytearray_example), bytearray_example)
+
+memoryview_example = memoryview(bytes(5))
+print(type(memoryview_example), memoryview_example)
+
+# None Type
+none_example = None
+print(type(none_example), none_example)
