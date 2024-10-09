@@ -8,3 +8,11 @@ print("PYTHON DATA TYPES")
 # Binary Types:	bytes, bytearray, memoryview
 # None Type:	NoneType
 
+
+# How to find the data type of a variable
+x=50
+y="Sumit"
+z=True
+print(type(x))
+print(type(y))
+print(type(z))
