@@ -19,3 +19,13 @@ c=-3255522
 print("a is of type:",type(a))
 print("b is of type:",type(b))
 print("c is of type:",type(c))
+
+print("FLOAT NUMBERS")
+print("Float, or 'floating point number' is a number, positive or negative, containing one or more decimals.")
+# For example:
+d=1.10
+e=1.0
+f=-35.59
+print("d is of type:",type(d))
+print("e is of type:",type(e))
+print("f is of type:",type(f))
