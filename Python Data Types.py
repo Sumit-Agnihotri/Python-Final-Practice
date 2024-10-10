@@ -69,3 +69,39 @@ print(type(memoryview_example), memoryview_example)
 # None Type
 none_example = None
 print(type(none_example), none_example)
+
+
+
+# Commonly asked data types in interviews
+
+# String
+string_example = "Interview"
+print(type(string_example), string_example)
+
+# Integer
+integer_example = 42
+print(type(integer_example), integer_example)
+
+# Float
+float_example = 3.14
+print(type(float_example), float_example)
+
+# List
+list_example = [1, 2, 3, 4, 5]
+print(type(list_example), list_example)
+
+# Dictionary
+dict_example = {"key": "value"}
+print(type(dict_example), dict_example)
+
+# Tuple
+tuple_example = (1, 2, 3)
+print(type(tuple_example), tuple_example)
+
+# Set
+set_example = {1, 2, 3}
+print(type(set_example), set_example)
+
+# Boolean
+boolean_example = True
+print(type(boolean_example), boolean_example)
