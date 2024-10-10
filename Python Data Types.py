@@ -71,7 +71,6 @@ none_example = None
 print(type(none_example), none_example)
 
 
-
 # Commonly asked data types in interviews
 
 
