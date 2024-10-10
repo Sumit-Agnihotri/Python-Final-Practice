@@ -74,6 +74,7 @@ print(type(none_example), none_example)
 
 # Commonly asked data types in interviews
 
+
 # String
 string_example = "Interview"
 print(type(string_example), string_example)
