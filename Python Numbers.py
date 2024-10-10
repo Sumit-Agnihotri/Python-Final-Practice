@@ -29,3 +29,13 @@ f=-35.59
 print("d is of type:",type(d))
 print("e is of type:",type(e))
 print("f is of type:",type(f))
+
+print("COMPLEX NUMBERS")
+print("Complex numbers are written with a 'j' as the imaginary part.")
+# For example:
+g=3+5j
+h=5j
+i=-5j
+print("g is of type:",type(g))
+print("h is of type:",type(h))
+print("i is of type:",type(i))
