@@ -39,3 +39,19 @@ i=-5j
 print("g is of type:",type(g))
 print("h is of type:",type(h))
 print("i is of type:",type(i))
+
+print("TYPE CONVERSION")
+print("We can convert from one type to another with the int(), float(), and complex() methods.")
+
+# For example:
+j=1
+k=complex(j)
+print(k)
+
+i=3
+j=float(i)
+print(j)
+
+i=3.4
+j=int(i)
+print(j)
