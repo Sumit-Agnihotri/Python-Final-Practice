@@ -12,3 +12,10 @@ print("z is of type:",type(z))
 
 print("INTEGER NUMBERS")
 print("Int, or integer, is a whole number, positive or negative, without decimals, of unlimited length.")
+# For example:
+a=1
+b=35656222554887711
+c=-3255522
+print("a is of type:",type(a))
+print("b is of type:",type(b))
+print("c is of type:",type(c))
