@@ -3,3 +3,9 @@ print("Specify a Variable Type\nThere may be times when you want to specify a ty
 x = int(1)   # x will be 1
 y = int(2.8) # y will be 2
 z = int("3") # z will be 3
+
+#Floats Example:
+x = float(1)     # x will be 1.0
+y = float(2.8)   # y will be 2.8
+z = float("3")   # z will be 3.0
+
