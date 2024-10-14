@@ -5,3 +5,4 @@ print('Hello') # Output: Hello
 # Quote inside Quotes
 print("It's alright!") # Output: It's alright!
 print("'Sumit' and 'Anshika' are friends") # It's a single quote inside double quotes.
+print('"Sumit" and "Anshika" are friends') # It's a double quote inside single quotes.
