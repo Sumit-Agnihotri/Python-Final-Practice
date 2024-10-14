@@ -8,3 +8,7 @@ print("'Sumit' and 'Anshika' are friends") # It's a single quote inside double q
 print('"Sumit" and "Anshika" are friends') # It's a double quote inside single quotes.
 
 # Multi-line Strings
+print("""Sumit and Anshika are friends.
+      They are best friends.""") # Output: Sumit and Anshika are friends.
+print('''Sumit and Anshika are friends.
+      They are best friends.''') # Output: Sumit and Anshika are friends.
