@@ -12,3 +12,7 @@ print("""Sumit and Ruby are friends.
       They are best friends.""") # Output: Sumit and Ruby are friends.
 print('''Sumit and Ruby are friends.
       They are best friends.''') # Output: Sumit and Ruby are friends.
+
+# Strings are Arrays
+a="Hello, World!"
+print(a[1]) # Output: e
