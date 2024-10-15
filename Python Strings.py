@@ -20,3 +20,7 @@ print(a[1]) # Output: e
 # Looping through a String
 for x in "banana":
       print(x) # Output: b a n a n a
+      
+# String Length
+a="Hello, World!"
+print(len(a)) # Output: 13
