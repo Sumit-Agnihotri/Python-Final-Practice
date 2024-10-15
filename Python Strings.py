@@ -16,3 +16,7 @@ print('''Sumit and Ruby are friends.
 # Strings are Arrays
 a="Hello, World!"
 print(a[1]) # Output: e
+
+# Looping through a String
+for x in "banana":
+      print(x) # Output: b a n a n a
