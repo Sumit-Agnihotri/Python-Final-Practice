@@ -28,3 +28,8 @@ print(len(a)) # Output: 13
 # Check String
 txt="The best things in life are free!"
 print("free" in txt) # Output: True, it checks if the specified value is present in the string.
+
+# We can also do this same process using if statement.
+txt="The best things in life are free!"
+if "free" in txt:
+      print("Yes, 'free' is present in the string.") # Output: Yes, 'free' is present in the string.
