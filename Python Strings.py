@@ -24,3 +24,7 @@ for x in "banana":
 # String Length
 a="Hello, World!"
 print(len(a)) # Output: 13
+
+# Check String
+txt="The best things in life are free!"
+print("free" in txt) # Output: True, it checks if the specified value is present in the string.
