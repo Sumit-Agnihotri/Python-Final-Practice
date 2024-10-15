@@ -33,3 +33,7 @@ print("free" in txt) # Output: True, it checks if the specified value is present
 txt="The best things in life are free!"
 if "free" in txt:
       print("Yes, 'free' is present in the string.") # Output: Yes, 'free' is present in the string.
+
+# Check if NOT
+txt="The best things in life are free!"
+print("expensive" not in txt) # Output: True, it checks if the specified value is not present in the string.
