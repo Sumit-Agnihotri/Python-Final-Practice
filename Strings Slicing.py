@@ -10,3 +10,8 @@ print(a[1:3])
 # Example:
 a=[1,2,3,4,5]
 print(a[:3])
+
+# Slice from End
+# Example:
+a=[1,2,3,4,5]
+print(a[1:])
