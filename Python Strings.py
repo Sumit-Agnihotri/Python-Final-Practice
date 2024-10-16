@@ -19,7 +19,7 @@ print(a[1]) # Output: e
 
 # Looping through a String
 for x in "banana":
-      print(x) # Output: b a n a n a
+  print(x) # Output: b a n a n a
       
 # String Length
 a="Hello, World!"
@@ -32,7 +32,7 @@ print("free" in txt) # Output: True, it checks if the specified value is present
 # We can also do this same process using if statement.
 txt="The best things in life are free!"
 if "free" in txt:
-      print("Yes, 'free' is present in the string.") # Output: Yes, 'free' is present in the string.
+  print("Yes, 'free' is present in the string.") # Output: Yes, 'free' is present in the string.
 
 # Check if NOT
 txt="The best things in life are free!"
