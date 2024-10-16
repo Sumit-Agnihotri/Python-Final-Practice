@@ -15,3 +15,8 @@ print(a[:3])
 # Example:
 a=[1,2,3,4,5]
 print(a[1:])
+
+# Negative Indexing
+# Example:
+a=[1,2,3,4,5]
+print(a[-3:-1])
