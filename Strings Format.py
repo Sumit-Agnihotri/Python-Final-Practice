@@ -16,3 +16,5 @@ print("\nPlaceholders and Modifiers\n")
 price=100
 txt = "The price is {:.2f} dollars"
 print(txt.format(price))
+
+print("This price is ${20*5} dollars!")
