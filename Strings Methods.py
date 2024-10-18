@@ -5,3 +5,7 @@ print(a.capitalize())
 print(a.casefold())
 # center() Returns a centered string
 print(a.center(20))
+# count() Returns the number of times a specified value occurs in a string
+print(a.count("l"))
+# encode() Returns an encoded version of the string
+print(a.encode())
