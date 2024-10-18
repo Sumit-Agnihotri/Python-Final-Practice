@@ -19,3 +19,8 @@ else:
 # Example
 print(bool("Hello"))
 print(bool(15))
+
+# These will always return True:
+bool("abc")
+bool(123)
+bool(["apple", "cherry", "banana"])
