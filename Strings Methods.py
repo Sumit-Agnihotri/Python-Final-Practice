@@ -23,3 +23,9 @@ print(a.lower())
 print(a.title())
 # swapcase() Swaps cases, lower case becomes upper case and vice versa
 print(a.swapcase())
+# strip() Removes any whitespace from the beginning or the end
+print(a.strip())
+# rstrip() Removes any whitespace from the end
+print(a.rstrip())
+# lstrip() Removes any whitespace from the beginning
+print(a.lstrip())
