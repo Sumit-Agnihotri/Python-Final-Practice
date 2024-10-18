@@ -9,6 +9,8 @@ print(a.center(20))
 print(a.count("l"))
 # encode() Returns an encoded version of the string
 print(a.encode())
+# startswwith() Returns true if the string starts with the specified value
+print(a.startswith("h"))
 # endswith() Returns true if the string ends with the specified value
 print(a.endswith("o"))
 # expandtabs() Sets the tab size of the string
