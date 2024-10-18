@@ -31,3 +31,7 @@ print(a.strip())
 print(a.rstrip())
 # lstrip() Removes any whitespace from the beginning
 print(a.lstrip())
+# replace() Returns a string where a specified value is replaced with a specified value
+print(a.replace("h","j"))
+# partition() Returns a tuple where the string is parted into three parts
+print(a.partition("l"))
