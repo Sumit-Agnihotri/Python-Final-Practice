@@ -57,7 +57,12 @@ print(a.isdigit())
 print(a.isidentifier())
 # islower() Returns True if all characters in the string are lower case
 print(a.islower())
-
+# isupper() Returns True if all characters in the string are upper case
+print(a.isupper())  
+# istitle() Returns True if the string follows the rules of a title
+print(a.istitle())
+# join() Joins the elements of an iterable to the end of the string
+print(a.join("world"))
 # ljust() Returns a left justified version of the string
 print(a.ljust(10))
 # rjust() Returns a right justified version of the string
