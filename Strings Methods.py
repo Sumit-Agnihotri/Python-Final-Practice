@@ -35,3 +35,11 @@ print(a.lstrip())
 print(a.replace("h","j"))
 # partition() Returns a tuple where the string is parted into three parts
 print(a.partition("l"))
+# rpartition() Returns a tuple where the string is parted into three parts
+print(a.rpartition("l"))
+# split() Splits the string at the specified separator, and returns a list
+print(a.split("l"))
+# rsplit() Splits the string at the specified separator, and returns a list
+print(a.rsplit("l"))
+# splitlines() Splits the string at line breaks and returns a list
+print(a.splitlines())
