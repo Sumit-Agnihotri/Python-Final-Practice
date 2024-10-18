@@ -19,3 +19,7 @@ print(a.find("l"))
 print(a.upper())
 # lower() Converts a string into lower case
 print(a.lower())
+# title() Converts the first character of each word to upper case
+print(a.title())
+# swapcase() Swaps cases, lower case becomes upper case and vice versa
+print(a.swapcase())
