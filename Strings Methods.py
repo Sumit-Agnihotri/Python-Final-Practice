@@ -15,3 +15,7 @@ print(a.endswith("o"))
 print(a.expandtabs(2))
 # find() Searches the string for a specified value and returns the position of where it was found
 print(a.find("l"))
+# upper() Converts a string into upper case
+print(a.upper())
+# lower() Converts a string into lower case
+print(a.lower())
