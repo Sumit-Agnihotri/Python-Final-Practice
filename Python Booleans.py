@@ -24,3 +24,12 @@ print(bool(15))
 bool("abc")
 bool(123)
 bool(["apple", "cherry", "banana"])
+
+# These will always return False:
+bool(False)
+bool(None)
+bool(0)
+bool("")
+bool(())
+bool([])
+bool({})
