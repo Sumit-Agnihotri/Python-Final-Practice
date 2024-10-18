@@ -65,3 +65,9 @@ print(a.istitle())
 print(a.join("world"))
 # ljust() Returns a left justified version of the string
 print(a.ljust(10))
+# rjust() Returns a right justified version of the string
+print(a.rjust(10))
+# zfill() Fills the string with a specified number of 0 values at the beginning
+print(a.zfill(10))
+# format() Formats specified values in a string
+print(a.format())
