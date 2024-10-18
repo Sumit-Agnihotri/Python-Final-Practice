@@ -43,3 +43,25 @@ print(a.split("l"))
 print(a.rsplit("l"))
 # splitlines() Splits the string at line breaks and returns a list
 print(a.splitlines())
+# isspace() Returns True if all characters in the string are whitespaces
+print(a.isspace())
+# isalpha() Returns True if all characters in the string are in the alphabet
+print(a.isalpha())
+# isalnum() Returns True if all characters in the string are alphanumeric
+print(a.isalnum())
+# isdecimal() Returns True if all characters in the string are decimals
+print(a.isdecimal())
+# isdigit() Returns True if all characters in the string are digits
+print(a.isdigit())
+# isidentifier() Returns True if the string is an identifier
+print(a.isidentifier())
+# islower() Returns True if all characters in the string are lower case
+print(a.islower())
+# isupper() Returns True if all characters in the string are upper case
+print(a.isupper())  
+# istitle() Returns True if the string follows the rules of a title
+print(a.istitle())
+# join() Joins the elements of an iterable to the end of the string
+print(a.join("world"))
+# ljust() Returns a left justified version of the string
+print(a.ljust(10))
