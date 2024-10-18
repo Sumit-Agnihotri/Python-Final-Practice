@@ -11,3 +11,5 @@ print(a.count("l"))
 print(a.encode())
 # endswith() Returns true if the string ends with the specified value
 print(a.endswith("o"))
+# expandtabs() Sets the tab size of the string
+print(a.expandtabs(2))
