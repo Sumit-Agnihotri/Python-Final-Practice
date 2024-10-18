@@ -3,3 +3,5 @@ a="hello"
 print(a.capitalize())
 # casefold() Converts string into lower case
 print(a.casefold())
+# center() Returns a centered string
+print(a.center(20))
