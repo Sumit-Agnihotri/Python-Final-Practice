@@ -53,3 +53,5 @@ print(not(a==b)) # not
 print("5:- Identity Operators")
 print(a is b) # is
 print(a is not b) # is not
+
+print("6:- Membership Operators")
