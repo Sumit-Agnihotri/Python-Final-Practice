@@ -55,5 +55,5 @@ print(a is b) # is
 print(a is not b) # is not
 
 print("6:- Membership Operators")
-print(a in b) # in
-print(a not in b) # not in
+print(a in [b]) # in
+print(a not in [b]) # not in
