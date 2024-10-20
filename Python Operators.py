@@ -44,3 +44,8 @@ print(a>b) # Greater than
 print(a<b) # Less than
 print(a>=b) # Greater than or equal to
 print(a<=b) # Less than or equal to
+
+print("4:- Logical Operators")
+print(a==b and a!=b) # and
+print(a==b or a!=b) # or
+print(not(a==b)) # not
