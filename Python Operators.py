@@ -49,3 +49,7 @@ print("4:- Logical Operators")
 print(a==b and a!=b) # and
 print(a==b or a!=b) # or
 print(not(a==b)) # not
+
+print("5:- Identity Operators")
+print(a is b) # is
+print(a is not b) # is not
