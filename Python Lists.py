@@ -10,3 +10,6 @@ print(list)
 # We can put duplicate values in a list
 list = ["apple", "banana", "cherry", "apple", "cherry"]
 print(list)
+
+# List Length
+print(len(list))
