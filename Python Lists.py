@@ -6,3 +6,7 @@ print("Lists are one of 4 built-in data types in Python used to store collection
 # Creating a List
 list = ["apple", "banana", "cherry"]
 print(list)
+
+# We can put duplicate values in a list
+list = ["apple", "banana", "cherry", "apple", "cherry"]
+print(list)
