@@ -8,3 +8,8 @@
 # 5:- Identity operators
 # 6:- Membership operators
 # 7:- Bitwise operators
+
+a=2
+b=3
+print("1:- Arithmetic operators")
+print(a+b) # Addition
