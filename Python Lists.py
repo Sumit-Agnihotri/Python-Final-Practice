@@ -4,17 +4,19 @@ print("Lists are one of 4 built-in data types in Python used to store collection
 # Lists are mutable, meaning that the elements inside a list can be changed!
 
 # Creating a List
-list = ["apple", "banana", "cherry"]
-print(list)
+fruits = ["apple", "banana", "cherry"]
+print(fruits)
 
 # We can put duplicate values in a list
-list = ["apple", "banana", "cherry", "apple", "cherry"]
-print(list)
+fruits = ["apple", "banana", "cherry", "apple", "cherry"]
+print(fruits)
 
 # List Length
-print(len(list))
+print(len(fruits))
 
 # List Data Types
-list = ["apple", "banana", "cherry", 1, 2, 3]
-print(type(list))
+mixed_list = ["apple", "banana", "cherry", 1, 2, 3]
+print(type(mixed_list))
 
+# The list() Constructor
+fruits = list(("apple", "banana", "cherry")) # note the double round-brackets
