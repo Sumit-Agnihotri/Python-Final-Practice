@@ -13,3 +13,8 @@ print(list)
 
 # List Length
 print(len(list))
+
+# List Data Types
+list = ["apple", "banana", "cherry", 1, 2, 3]
+print(type(list))
+
